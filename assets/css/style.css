@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+.title {
+    font-family: Inter;
+    font-size: 49px;
+}
+
+.title strong {
+    color: #6C63FF;
+}
+
+.text, footer {
+    font-family: 'Open Sans';
+    font-size: 14px;
+}
+
+.text y {
+    color: #6C63FF;
+}
+
+a {
+    color: #6C63FF;
+}
+.insta {
+    margin-right: 35px;
+}
