@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    width: 600px;
+    box-sizing: 900px;
+    margin: auto ;
 }
 
 .title {
